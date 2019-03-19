@@ -1,5 +1,7 @@
 # Created by https://www.gitignore.io/api/node
 
+key.js
+
 .DS_Store
 
 ### Node ###
